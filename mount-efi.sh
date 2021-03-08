@@ -1,0 +1,1 @@
+sudo diskutil mount EFI
