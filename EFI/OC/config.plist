@@ -1430,23 +1430,21 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>FVF013902GU00001M</string>
+			<string>YOUR_SMBIOS_HERE</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>
-			ioqVwpGj
-			</data>
+			<data>ioqVwpGj</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookAir9,1</string>
+			<string>MacBookPro16,2</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFCHFYTMNHP</string>
+			<string>YOUR_SMBIOS_HERE</string>
 			<key>SystemUUID</key>
-			<string>7B5B8D02-46F7-463B-B421-571C44C291A3</string>
+			<string>YOUR_SMBIOS_HERE</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
