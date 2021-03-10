@@ -1148,7 +1148,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>YOUR_SMBIOS_HERE</string>
+			<string>YOUR_BOARD_SERIAL</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1160,9 +1160,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,2</string>
 			<key>SystemSerialNumber</key>
-			<string>YOUR_SMBIOS_HERE</string>
+			<string>YOUR_SERIAL</string>
 			<key>SystemUUID</key>
-			<string>YOUR_SMBIOS_HERE</string>
+			<string>YOUR_SMUUID</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

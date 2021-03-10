@@ -6,7 +6,7 @@ This is my personal OpenCore EFI for my current hackintosh (dual-boot macOS Big 
 ## How to use
 
 Generate correct SMBIOS for `MacBookPro16,2` using this guide: [Generate a new Serial](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#generate-a-new-serial)
-and replace "YOUR_SMBIOS_HERE" in conflig.plist with your MLB, Serial, and SmUUID.
+and replace "YOUR_SERIAL", "YOUR_BOARD_SERIAL", and "YOUR_SMUUID" in the conflig.plist with your MLB, Serial, and SmUUID.
 
 ## Working:
 
