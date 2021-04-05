@@ -1,7 +1,7 @@
-My Personal Big Sur 11.2.3 EFI for HP Elitebook 850 G7 
+My Personal Big Sur 11.3 EFI for HP Elitebook 850 G7 
 =============
 
-This is my personal OpenCore EFI for my current hackintosh (dual-boot macOS Big Sur 11.2.3 and Windows 10). If you want a guide how to use it in your system or you have any questions please open an issue :)
+This is my personal OpenCore EFI for my current hackintosh (dual-boot macOS Big Sur 11.3 and Windows 10). If you want a guide how to use it in your system or you have any questions please open an issue :)
 
 ## How to use
 
