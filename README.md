@@ -33,3 +33,11 @@ sudo pmset -a disablesleep 1
 - Camera (might work for you, depends on model/vendor)
 - Microphone
 - HDMI port (currently buggy)
+
+## Useful resources
+
+* Sync Downloads folder with iCloud terminal command:
+
+```bash
+rm ~/Downloads; ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/Downloads/ ~/Downloads`
+```
