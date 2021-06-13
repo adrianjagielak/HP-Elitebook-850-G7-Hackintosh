@@ -43,3 +43,5 @@ sudo rm -rf ~/Downloads; sudo ln -s ~/Library/Mobile\ Documents/com~apple~CloudD
 ```
 
 and re-add the Downloads shortcut to the Dock
+
+(with right click you can adjust its appearance so its identical to the old Downloads folder's default look)
