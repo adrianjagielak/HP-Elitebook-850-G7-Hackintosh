@@ -39,5 +39,5 @@ sudo pmset -a disablesleep 1
 * Sync Downloads folder with iCloud terminal command:
 
 ```bash
-rm ~/Downloads; ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/Downloads/ ~/Downloads`
+rm ~/Downloads; ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/Downloads/ ~/Downloads
 ```
