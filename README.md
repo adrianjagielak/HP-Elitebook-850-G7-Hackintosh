@@ -41,3 +41,5 @@ sudo pmset -a disablesleep 1
 ```bash
 sudo rm -rf ~/Downloads; sudo ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/Downloads/ ~/Downloads
 ```
+
+and re-add the Downloads shortcut to the Dock
