@@ -27,6 +27,7 @@ sudo pmset -a disablesleep 1
 - Audio
 - Keyboard & touchpad
 - FileVault
+- iMessage and FaceTime
 
 ## Not working:
 
