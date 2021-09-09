@@ -18,6 +18,10 @@ sudo pmset -a hibernatemode 0
 sudo pmset -a disablesleep 1
 ```
 
+## Color profile
+
+By default the 850 G7 has an oversaturated colors. By fix them simply go to System Preferences -> Displays -> Color and select the "sRGB IEC61966-2.1" display profile.
+
 ## Working:
 
 - iGPU
