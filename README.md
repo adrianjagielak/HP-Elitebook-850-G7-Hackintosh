@@ -32,6 +32,7 @@ By default the 850 G7 has an oversaturated colors. By fix them simply go to Syst
 - Keyboard & touchpad
 - FileVault
 - iMessage and FaceTime
+- Handoff, unlocking with Apple Watch etc (no AirDrop though)
 
 ## Not working:
 
